@@ -1,0 +1,7 @@
+langchain
+openai
+transformers
+pillow
+torch 
+torchvision 
+torchaudio
